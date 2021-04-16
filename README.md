@@ -84,6 +84,8 @@ This homepage needs to specialize in landing me a developer job at a company of 
     - iOS, Swift, SwiftUI
 </Skills>
 
+<Testimonials />
+
 <Work>
   <Riverbed & Aternity>
     <AppInternals SaaS />

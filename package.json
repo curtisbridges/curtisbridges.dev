@@ -1,0 +1,12 @@
+{
+  "name": "curtisbridges.dev",
+  "version": "1.0.0",
+  "description": "This homepage needs to specialize in landing me a developer job at a company of my choice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
