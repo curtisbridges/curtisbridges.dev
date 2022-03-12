@@ -1,12 +1,29 @@
 {
   "name": "curtisbridges.dev",
   "version": "1.0.0",
-  "description": "This homepage needs to specialize in landing me a developer job at a company of my choice.",
+  "description": "My dev website",
   "main": "index.js",
   "scripts": {
+    "build": "hugo -D",
+    "start": "hugo server -D",
+    "new": "hugo new --kind post",
+    "update": "git submodule update --remote --merge",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/curtisbridges/curtisbridges.dev.git"
+  },
+  "keywords": [
+    "blog",
+    "hugo",
+    "dev",
+    "developer"
+  ],
+  "author": "Curtis Bridges <curtis@curtisbridges.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtisbridges/curtisbridges.dev/issues"
+  },
+  "homepage": "https:curtisbridges.dev"
 }
