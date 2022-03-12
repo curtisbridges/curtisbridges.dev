@@ -6,7 +6,6 @@
   "scripts": {
     "build": "hugo -D",
     "start": "hugo server -D",
-    "new": "hugo new --kind post",
     "update": "git submodule update --remote --merge",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
