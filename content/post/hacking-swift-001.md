@@ -1,9 +1,9 @@
 ---
-title: "My 1st post"
+title: "Hacking with Swift - Day 1"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["apple", "iOS", "swift"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -32,3 +32,11 @@ ShowPostNavLinks: true
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
+
+## Day 1 = Done
+
+I've completed [Day 1](https://www.hackingwithswift.com/100/swiftui/1). Paul discusses Xcode, Playgrounds, and the basics of variables.
+
+Coming from JavaScript, the differences in `var` and `let` are going to be troublesome; I actually prefer JavaScript's `let` and `const` (but NOT `var`!) right now. I'm sure I'll come around, eventually.
+
+Swift's tooling looks to be much better than JavaScripts, if a lot less diverse.
