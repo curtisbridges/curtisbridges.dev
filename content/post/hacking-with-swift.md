@@ -11,12 +11,12 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Starting Hacking with Swift"
+# description: "Starting Hacking with Swift"
 # canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -32,8 +32,6 @@ ShowPostNavLinks: true
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
-
-## My History with Swift
 
 I've decided to make another run at learning Swift. I've attempted this before, several times:
 
